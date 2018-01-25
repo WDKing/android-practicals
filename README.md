@@ -1,1 +1,1 @@
-# android-practicals
+# android-practicals-hello-world
